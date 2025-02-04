@@ -4,6 +4,8 @@ public interface ProductService {
     /*
     * ### **Product Service (Управление продуктами)**
 
+*
+*
 - `POST /products` — добавить новый продукт
 - `GET /products/{id}` — получить информацию о продукте
 - `PUT /products/{id}` — обновить информацию о продукте
